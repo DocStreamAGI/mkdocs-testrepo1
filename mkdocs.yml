@@ -9,6 +9,12 @@ theme:
     - navigation.instant
     - content.action.edit
 
+plugins:
+  - search
+  - git-revision-date-localized:
+      enable_creation_date: true
+      type: date
+
 extra:
   version:
     provider: mike
