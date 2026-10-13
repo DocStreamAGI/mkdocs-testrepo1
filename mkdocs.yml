@@ -1,9 +1,13 @@
 site_name: Test Repository 1
 
+repo_url: https://github.com/DocStreamAGI/mkdocs-testrepo1
+edit_uri: edit/main/docs/
+
 theme:
   name: material
   features:
     - navigation.instant
+    - content.action.edit
 
 extra:
   version:
