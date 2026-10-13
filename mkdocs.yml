@@ -2,6 +2,12 @@ site_name: Test Repository 1
 
 theme:
   name: material
+  features:
+    - navigation.instant
+
+extra:
+  version:
+    provider: mike
 
 nav:
   - Start: index.md
