@@ -1,0 +1,8 @@
+site_name: Test Repository 1
+
+theme:
+  name: material
+
+nav:
+  - Start: index.md
+  - Technik: technik.md
