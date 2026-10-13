@@ -14,6 +14,7 @@ plugins:
   - git-revision-date-localized:
       enable_creation_date: true
       type: date
+  - to-pdf
 
 extra:
   version:
